@@ -1,0 +1,14 @@
+KEBIJAKAN PRIVASI ALBA SERVICE
+Aplikasi ALBA SERVICE dibangun sebagai aplikasi pengelolaan nota servis. Layanan ini disediakan oleh [Nama Anda/Nama Toko] tanpa biaya dan dimaksudkan untuk digunakan apa adanya.
+1. Pengumpulan dan Penggunaan Informasi Aplikasi ini TIDAK mengumpulkan data pribadi Anda di server pihak ketiga. Semua data nota, pelanggan, dan teknisi disimpan secara LOKAL di perangkat Anda.
+2. Izin Perangkat (Permissions)
+•
+Penyimpanan: Digunakan untuk menyimpan file backup database dan mengekspor laporan PDF/Excel.
+•
+Bluetooth: Digunakan hanya untuk terhubung ke printer thermal untuk mencetak nota.
+•
+Mikrofon: Digunakan fitur Voice-to-Text untuk memudahkan input nama barang.
+•
+Google Drive: Jika Anda mengaktifkan fitur backup, aplikasi akan mengakses akun Google Drive pribadi Anda untuk menyimpan file cadangan secara privat. Kami tidak memiliki akses ke file lain di Drive Anda.
+3. Keamanan Data Karena data disimpan di HP Anda, Anda bertanggung jawab penuh atas keamanan perangkat Anda. Kami menyarankan untuk melakukan backup secara rutin ke Google Drive melalui fitur yang tersedia.
+4. Perubahan Kebijakan Kami dapat memperbarui Kebijakan Privasi ini sewaktu-waktu. Anda disarankan untuk meninjau halaman ini secara berkala.
